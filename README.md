@@ -1,3 +1,4 @@
+
 CustomFanController - Solution Code
 ===================================
 
@@ -39,4 +40,3 @@ Getting Started
 1. Download the code.
 2. Open the code in Android Studio.
 3. Run the app.
-
